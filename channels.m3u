@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="News" group-title="",News
-https://example.com/stream.m3u8
+#EXTINF:-1 tvg-id="FBS Channel" tvg-logo="media/FBS_Channel.png" group-title="General",FBS Channel
+https://vod.fonseware.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Vacant Channel" tvg-logo="media/fwcable.png" group-title="",Vacant Channel
+NA
