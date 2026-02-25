@@ -1,0 +1,26 @@
+[
+  {
+    "tvg_id": "101",
+    "tvg_logo": "http://cable.fnswe.me/media/fw-radio-logo.png",
+    "group_title": "General",
+    "tvg_chno": "01",
+    "tvg_country": "LK",
+    "tvg_language": "English",
+    "tvg_name": "FBS effem",
+    "radio": "true",
+    "display_name": "FBS effem",
+    "url": "https://vod.fonseware.com/hls/radio_stream.m3u8"
+  },
+  {
+    "tvg_id": "102",
+    "tvg_logo": "http://cable.fnswe.me/media/fw-radio-logo.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "02",
+    "tvg_country": "N/A",
+    "tvg_language": "N/A",
+    "tvg_name": "FBS effem",
+    "radio": "true",
+    "display_name": "No channel #2",
+    "url": "https://vod.fonseware.com/hls/radio_stream.m3u8"
+  }
+]
