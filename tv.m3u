@@ -5,9 +5,27 @@ https://cable.fnswe.me/media/intro.mp4
 #EXTINF:-1 tvg-id="002" tvg-logo="http://cable.fnswe.me/media/fw-teve-logo-light.png" group-title="General" tvg-chno="02" tvg-country="LK" tvg-language="English" tvg-name="FBS teve" radio="false",FBS teve
 https://vod.fonseware.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="003" tvg-logo="http://cable.fnswe.me/res/fw-cable-light.png" group-title="Ungrouped" tvg-chno="03" tvg-country="LK" tvg-language="English" tvg-name="No channel #3" radio="false",No channel #3
+#EXTINF:-1 tvg-id="003" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="03" tvg-country="LK" tvg-language="English" tvg-name="No channel #3" radio="false",No channel #3
 https://cable.fnswe.me/media/vacant.mp4
 
-#EXTINF:-1 tvg-id="004" tvg-logo="http://cable.fnswe.me/res/fw-cable-light.png" group-title="Ungrouped" tvg-chno="04" tvg-country="N/A" tvg-language="English" tvg-name="No channel #4" radio="false",No channel #4
+#EXTINF:-1 tvg-id="004" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="04" tvg-country="N/A" tvg-language="English" tvg-name="No channel #4" radio="false",No channel #4
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="005" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="05" tvg-country="N/A" tvg-language="English" tvg-name="No channel #5" radio="false",No channel #5
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="006" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="06" tvg-country="N/A" tvg-language="English" tvg-name="No channel #6" radio="false",No channel #6
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="007" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="07" tvg-country="N/A" tvg-language="English" tvg-name="No channel #7" radio="false",No channel #7
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="008" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="08" tvg-country="N/A" tvg-language="English" tvg-name="No channel #8" radio="false",No channel #8
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="009" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="09" tvg-country="N/A" tvg-language="English" tvg-name="No channel #9" radio="false",No channel #9
+https://cable.fnswe.me/media/vacant.mp4
+
+#EXTINF:-1 tvg-id="010" tvg-logo="http://cable.fnswe.me/res/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="10" tvg-country="N/A" tvg-language="English" tvg-name="No channel #10" radio="false",No channel #10
 https://cable.fnswe.me/media/vacant.mp4
 
