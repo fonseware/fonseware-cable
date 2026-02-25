@@ -25,7 +25,7 @@
   },
   {
     "tvg_id": "003",
-    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-light.png",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
     "group_title": "Ungrouped",
     "tvg_chno": "03",
     "tvg_country": "LK",
@@ -37,7 +37,7 @@
   },
   {
     "tvg_id": "004",
-    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-light.png",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
     "group_title": "Ungrouped",
     "tvg_chno": "04",
     "tvg_country": "N/A",
@@ -45,6 +45,78 @@
     "tvg_name": "No channel #4",
     "radio": "false",
     "display_name": "No channel #4",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "005",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "05",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #5",
+    "radio": "false",
+    "display_name": "No channel #5",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "006",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "06",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #6",
+    "radio": "false",
+    "display_name": "No channel #6",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "007",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "07",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #7",
+    "radio": "false",
+    "display_name": "No channel #7",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "008",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "08",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #8",
+    "radio": "false",
+    "display_name": "No channel #8",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "009",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "09",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #9",
+    "radio": "false",
+    "display_name": "No channel #9",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "010",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-nochannel.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "10",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #10",
+    "radio": "false",
+    "display_name": "No channel #10",
     "url": "https://cable.fnswe.me/media/vacant.mp4"
   }
 ]
