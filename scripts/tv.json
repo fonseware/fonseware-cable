@@ -1,0 +1,26 @@
+[
+  {
+    "tvg_id": "001",
+    "tvg_logo": "http://cable.fnswe.me/media/fw-teve-logo-light.png",
+    "group_title": "General",
+    "tvg_chno": "01",
+    "tvg_country": "LK",
+    "tvg_language": "English",
+    "tvg_name": "FBS teve",
+    "radio": "false",
+    "display_name": "FBS teve",
+    "url": "https://vod.fonseware.com/hls/stream.m3u8"
+  },
+  {
+    "tvg_id": "002",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-light.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "02",
+    "tvg_country": "LK",
+    "tvg_language": "English",
+    "tvg_name": "No channel",
+    "radio": "false",
+    "display_name": "No channel",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  }
+]
