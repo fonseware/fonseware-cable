@@ -1,4 +1,4 @@
-#### <picture><source media="(prefers-color-scheme: dark)" srcset="res/fw-cable-dark.png"><source media="(prefers-color-scheme: light)" srcset="res/fw-cable-light.png"><img alt="fw cable logo" height="15px" src="res/fw-cable-light.png"></picture>
+#### <picture><source media="(prefers-color-scheme: dark)" srcset="res/fw-cable-light.png"><source media="(prefers-color-scheme: light)" srcset="res/fw-cable-dark.png"><img alt="fw cable logo" height="15px" src="res/fw-cable-dark.png"></picture>
 
 this is an open broadcast network, community-driven, free tv & radio directory.
 
