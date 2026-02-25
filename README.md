@@ -1,11 +1,10 @@
 #### <picture><source media="(prefers-color-scheme: dark)" srcset="res/fw-cable-light.png"><source media="(prefers-color-scheme: light)" srcset="res/fw-cable-dark.png"><img alt="fw cable logo" height="15px" src="res/fw-cable-dark.png"></picture>
 
 this is an open broadcast network, community-driven, free tv & radio directory.
-
-copy the links below and watch tv or listen radio on your favorite player of your choice.
-
 > [!WARNING]
 > we are not a piracy index. do not submit iptv-org or similar links. do not submit pirated sports streams. they will be rejected, and you will be blocked. do not submit streams you found on the internet.
+
+copy the links below and watch tv or listen radio on your favorite player of your choice.
 
 > #### **📺 watch tv now**
 > ```
