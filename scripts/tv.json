@@ -1,9 +1,21 @@
 [
   {
     "tvg_id": "001",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-light.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "01",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "FW cable teve",
+    "radio": "false",
+    "display_name": "FW cable teve",
+    "url": "https://cable.fnswe.me/media/intro.mp4"
+  },
+  {
+    "tvg_id": "002",
     "tvg_logo": "http://cable.fnswe.me/media/fw-teve-logo-light.png",
     "group_title": "General",
-    "tvg_chno": "01",
+    "tvg_chno": "02",
     "tvg_country": "LK",
     "tvg_language": "English",
     "tvg_name": "FBS teve",
@@ -12,15 +24,27 @@
     "url": "https://vod.fonseware.com/hls/stream.m3u8"
   },
   {
-    "tvg_id": "002",
+    "tvg_id": "003",
     "tvg_logo": "http://cable.fnswe.me/res/fw-cable-light.png",
     "group_title": "Ungrouped",
-    "tvg_chno": "02",
+    "tvg_chno": "03",
     "tvg_country": "LK",
     "tvg_language": "English",
-    "tvg_name": "No channel",
+    "tvg_name": "No channel #3",
     "radio": "false",
-    "display_name": "No channel",
+    "display_name": "No channel #3",
+    "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "004",
+    "tvg_logo": "http://cable.fnswe.me/res/fw-cable-light.png",
+    "group_title": "Ungrouped",
+    "tvg_chno": "04",
+    "tvg_country": "N/A",
+    "tvg_language": "English",
+    "tvg_name": "No channel #4",
+    "radio": "false",
+    "display_name": "No channel #4",
     "url": "https://cable.fnswe.me/media/vacant.mp4"
   }
 ]

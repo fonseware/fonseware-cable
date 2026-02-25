@@ -1,0 +1,8 @@
+{
+  "name": "fonseware-cable-generator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "generate": "python3 generate.py"
+  }
+}
