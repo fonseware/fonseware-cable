@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="101" tvg-logo="http://cable.fnswe.me/media/fw-radio-logo.png" group-title="Radio" tvg-chno="101" tvg-country="LK" tvg-language="English" tvg-name="FBS radio" radio="true",FBS radio
-https://vod.fonseware.com/hls/radio_stream.m3u8
-

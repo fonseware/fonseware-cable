@@ -599,3 +599,6 @@ https://cable.fnswe.me/media/vacant.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo="http://cable.fnswe.me/media/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="200" tvg-country="N/A" tvg-language="English" tvg-name="No channel #200" radio="false",No channel #200
 https://cable.fnswe.me/media/vacant.mp4
 
+#EXTINF:-1 tvg-id="101" tvg-logo="http://cable.fnswe.me/media/fw-radio-logo.png" group-title="Radio" tvg-chno="01" tvg-country="LK" tvg-language="English" tvg-name="FBS effem" radio="true",FBS effem
+https://vod.fonseware.com/hls/radio_stream.m3u8
+

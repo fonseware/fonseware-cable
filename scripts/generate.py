@@ -2,18 +2,10 @@ import json
 import os
 
 def build_the_playlist():
-    # prompt the user to make a choice
-    choice = input("which playlist do you want to generate? enter 'tv' or 'fm': ").strip().lower()
-
-    # nip invalid inputs in the bud
-    if choice not in ['tv', 'fm']:
-        print("invalid choice. please run the script again and type 'tv' or 'fm'.")
-        return
-
-    json_file = f"{choice}.json"
+    json_file = "channels.json"
 
     # the '..' tells the system to go up one folder level
-    m3u_file = os.path.join('..', f"{choice}.m3u")
+    m3u_file = os.path.join('..', "ch.m3u")
 
     # check if the file is actually there before we put the cart before the horse
     if not os.path.exists(json_file):
@@ -49,7 +41,7 @@ def build_the_playlist():
                 print(f"missing an attribute in your json! you dropped the ball on: {e}")
                 return
 
-    print(f"success! your playlist has been generated and saved one folder up at: {m3u_file}")
+    print(f"purr! your playlist has been generated and saved one folder up at: {m3u_file}")
 
 if __name__ == "__main__":
     build_the_playlist()

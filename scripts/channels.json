@@ -2398,5 +2398,17 @@
     "radio": "false",
     "display_name": "No channel #200",
     "url": "https://cable.fnswe.me/media/vacant.mp4"
+  },
+  {
+    "tvg_id": "101",
+    "tvg_logo": "http://cable.fnswe.me/media/fw-radio-logo.png",
+    "group_title": "Radio",
+    "tvg_chno": "01",
+    "tvg_country": "LK",
+    "tvg_language": "English",
+    "tvg_name": "FBS effem",
+    "radio": "true",
+    "display_name": "FBS effem",
+    "url": "https://vod.fonseware.com/hls/radio_stream.m3u8"
   }
 ]
