@@ -8,12 +8,12 @@ copy the links below and watch tv or listen radio on your favorite player of you
 
 > #### **📺 watch tv now**
 > ```
-> https://cable.fnswe.me/tv.m3u
+> http://cable.fnswe.me/tv.m3u
 >```
 
 > #### **📻 listen radio now**
 > ```
-> https://cable.fnswe.me/fm.m3u
+> http://cable.fnswe.me/fm.m3u
 >```
 
 the goal is to fill **200 channels** with original, independent, 24/7 (preferable) broadcast content.
