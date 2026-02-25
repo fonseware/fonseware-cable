@@ -1,19 +1,28 @@
-# 📡 fonseware-cable
-### The Open Broadcast Network of Sri Lanka (and beyond)
+#### <picture><source media="(prefers-color-scheme: dark)" srcset="res/fw-cable-dark.png"><source media="(prefers-color-scheme: light)" srcset="res/fw-cable-light.png"><img alt="fw cable logo" height="15px" src="res/fw-cable-dark.png"></picture>
 
-**fonseware-cable** is a community-driven, open-source IPTV directory. 
+this is an open broadcast network, community-driven, free tv & radio directory.
 
-We are not a piracy index. We are a **Federated Broadcast Network**. We provide the EPG (Electronic Program Guide) and the channel numbers; **you** provide the signal.
+copy the links below and watch tv or listen radio on your favorite player of your choice.
 
-Think of this as "Dialog TV" but free, decentralized, and run by the creators themselves.
+> [!WARNING]
+> we are not a piracy index. do not submit iptv-org or similar links. do not submit pirated sports streams. they will be rejected, and you will be blocked. do not submit streams you found on the internet.
 
-## 📺 The Vision
-The goal is to fill **200 channels** with original, independent, 24/7 broadcast content. 
+> #### **📺 watch tv now**
+> ```
+> https://cable.fnswe.me/tv.m3u
+>```
 
-* **Channel 001:** [FBS (Fonseware Broadcasting Service)](https://fonseware.com) - *Flagship*
-* **Channel 002 - 200:** [VACANT] - *Waiting for YOU*
+> #### **📻 listen radio now**
+> ```
+> https://cable.fnswe.me/fm.m3u
+>```
 
-Currently, all vacant channels point to a placeholder loop. When you submit a valid stream, you claim that channel number permanently (as long as your uptime remains stable).
+the goal is to fill **200 channels** with original, independent, 24/7 (preferable) broadcast content.
 
-## 🔌 How to Watch
-Copy the link below into any IPTV player (VLC, TiviMate, OTT Navigator, etc.):
+currently, all vacant channels point to a placeholder loop. when you submit a valid stream, you claim that channel number permanently (as long as your uptime remains stable).
+
+
+> #### ⚖️ legal
+> this repository does not host any video files. it contains text pointers (links) only. all streams are hosted and managed by third-party contributors. fonseware accepts no liability for the content streamed by contributors.
+>
+> dmca takedowns regarding specific streams should be directed to the stream's host, not this repository. however, if a stream violates copyright, open an issue and we will delist it from our directory.
