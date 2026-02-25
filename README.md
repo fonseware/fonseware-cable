@@ -6,14 +6,9 @@ this is an open broadcast network, community-driven, free tv & radio directory.
 
 copy the links below and watch tv or listen radio on your favorite player of your choice.
 
-> #### **📺 watch tv now**
+> #### **📺 watch tv & listen radio now**
 > ```
-> http://cable.fnswe.me/tv.m3u
->```
-
-> #### **📻 listen radio now**
-> ```
-> http://cable.fnswe.me/fm.m3u
+> http://cable.fnswe.me/ch.m3u
 >```
 
 the goal is to fill **200 channels** with original, independent, 24/7 (preferable) broadcast content.
