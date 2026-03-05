@@ -24,3 +24,7 @@ currently, all vacant channels point to a placeholder loop. when you submit a va
 > this repository does not host any video files. it contains text pointers (links) only. all streams are hosted and managed by third-party contributors. fonseware accepts no liability for the content streamed by contributors.
 >
 > dmca takedowns regarding specific streams should be directed to the stream's host, not this repository. however, if a stream violates copyright, open an issue and we will delist it from our directory.
+
+> want to contribute?
+>
+> check out our contribution guidlelines [here](CONTRIBUTING.md).
