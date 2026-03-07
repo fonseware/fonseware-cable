@@ -62,6 +62,25 @@
 > }
 > ```
 
+> #### 📅 Providing an EPG (Electronic Program Guide)
+> If you have a custom broadcast schedule, you can host your own EPG XML file and provide the link in the `epg_url` field of your JSON submission. 
+>
+> Your EPG must be in standard XMLTV format. The `channel id` in your XML **must** match the `tvg_id` you are claiming in your JSON submission. If your EPG fetch fails or you leave the `epg_url` blank, our system will automatically generate 30-minute fallback placeholder blocks so your channel doesn't appear empty.
+>
+> **Example EPG format:**
+> ```xml
+> <?xml version="1.0" encoding="UTF-8"?>
+> <tv generator-info-name="Your Name">
+>   <channel id="YOUR_TVG_ID">
+>     <display-name>Your Channel Name</display-name>
+>   </channel>
+>   <programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="YOUR_TVG_ID">
+>     <title lang="en">My Show Title</title>
+>     <desc lang="en">Description of the broadcast.</desc>
+>   </programme>
+> </tv>
+> ```
+
 > #### 💁🏻‍♂️ **want to submit a pr? here are the steps:**
 > 1. fork this repository.
 > 2. add your logo to the `/media` folder.

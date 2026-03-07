@@ -5,28 +5,28 @@ from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET
 
 def fetch_external_epg(url, master_channel_id):
-    """snatches the broadcaster's epg and forces it to use our channel id"""
+    """Fetches the broadcaster's EPG and assigns it the correct channel ID."""
     try:
-        # 10 second timeout so a dead broadcaster server doesn't hold up the whole network
+        # 10 second timeout to prevent hanging on unresponsive servers
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         tree = ET.fromstring(response.content)
         
         programmes = []
         for prog in tree.findall("programme"):
-            # overwrite whatever channel id they use with our official tvg_id
+            # Overwrite the source channel ID with the official tvg_id
             prog.set("channel", master_channel_id)
             programmes.append(prog)
         return programmes
     except Exception as e:
-        print(f"oop! failed to scrape epg for {master_channel_id} at {url}: {e}")
+        print(f"Error: Failed to fetch EPG for {master_channel_id} at {url}: {e}")
         return None
 
-def generate_floptropica_placeholders(channel_id, channel_name, logo_url):
-    """whips up 48 hours of 30-minute dummy blocks so the tv guide never looks empty"""
+def generate_fallback_placeholders(channel_id, channel_name, logo_url):
+    """Generates 48 hours of 30-minute placeholder blocks for empty schedules."""
     programmes = []
     now = datetime.now(timezone.utc)
-    # snap to the nearest 30-minute mark so the grid looks perfectly aligned
+    # Snap to the nearest 30-minute mark for grid alignment
     now = now - timedelta(minutes=now.minute % 30, seconds=now.second, microseconds=now.microsecond)
 
     # 48 hours = 96 half-hour blocks
@@ -34,7 +34,7 @@ def generate_floptropica_placeholders(channel_id, channel_name, logo_url):
         start_time = now + timedelta(minutes=30 * i)
         end_time = start_time + timedelta(minutes=30)
 
-        # format: YYYYMMDDHHMMSS +0000
+        # Format: YYYYMMDDHHMMSS +0000
         prog = ET.Element("programme", 
                           start=start_time.strftime("%Y%m%d%H%M%S +0000"), 
                           stop=end_time.strftime("%Y%m%d%H%M%S +0000"), 
@@ -44,7 +44,7 @@ def generate_floptropica_placeholders(channel_id, channel_name, logo_url):
         title.text = "No program set"
 
         desc = ET.SubElement(prog, "desc", lang="en")
-        desc.text = f"schedule information for {channel_name} is currently unavailable. please hold while we fix the badussy."
+        desc.text = f"Schedule information for {channel_name} is currently unavailable. Please check back later."
 
         category = ET.SubElement(prog, "category", lang="en")
         category.text = "General"
@@ -55,7 +55,7 @@ def generate_floptropica_placeholders(channel_id, channel_name, logo_url):
         if logo_url:
             ET.SubElement(prog, "icon", src=logo_url)
 
-        # throwing in a dummy season/episode number using xmltv standard (0-indexed)
+        # Dummy season/episode number using XMLTV standard (0-indexed)
         ep_num = ET.SubElement(prog, "episode-num", system="xmltv_ns")
         ep_num.text = "0.0.0/1"
 
@@ -63,19 +63,19 @@ def generate_floptropica_placeholders(channel_id, channel_name, logo_url):
 
     return programmes
 
-def build_the_broadcasting_empire():
+def generate_playlists():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     tv_json_path = os.path.join(script_dir, "tv.json")
     fm_json_path = os.path.join(script_dir, "fm.json")
     
-    # output paths going up one directory
+    # Output paths 
     master_m3u_path = os.path.join(script_dir, "..", "ch.m3u")
     jellyfin_m3u_path = os.path.join(script_dir, "..", "chjf.m3u")
     master_epg_path = os.path.join(script_dir, "..", "epg.xml")
     jellyfin_epg_path = os.path.join(script_dir, "..", "epgjf.xml")
     radio_dir = os.path.join(script_dir, "..", "radio")
 
-    # load the data
+    # Load the data
     tv_channels = []
     fm_channels = []
     
@@ -88,7 +88,7 @@ def build_the_broadcasting_empire():
             fm_channels = json.load(f)
 
     # 1. SETUP XML TREES
-    master_xml = ET.Element("tv", {"generator-info-name": "fonseware empire", "source-info-name": "fonseware-cable"})
+    master_xml = ET.Element("tv", {"generator-info-name": "fonseware network", "source-info-name": "fonseware-cable"})
     jellyfin_xml = ET.Element("tv", {"generator-info-name": "fonseware jellyfin", "source-info-name": "fonseware-cable"})
 
     # 2. BUILD THE CHANNEL HEADERS
@@ -101,9 +101,8 @@ def build_the_broadcasting_empire():
 
         master_xml.append(ch_elem)
         
-        # mirror it to the jellyfin specific file if it's a tv channel
+        # Mirror TV channels to Jellyfin
         if ch in tv_channels:
-            # creating a fresh element to avoid weird xml reference overlaps
             ch_elem_jf = ET.Element("channel", id=ch["tvg_id"])
             display_name_jf = ET.SubElement(ch_elem_jf, "display-name")
             display_name_jf.text = ch["display_name"]
@@ -117,33 +116,29 @@ def build_the_broadcasting_empire():
         epg_url = ch.get("epg_url")
         
         if epg_url:
-            print(f"fetching schedule for {ch['display_name']}...")
+            print(f"Fetching schedule for {ch['display_name']}...")
             programmes = fetch_external_epg(epg_url, ch["tvg_id"])
             
-        # if the fetch failed or there was no url to begin with, run the placeholder generator
         if not programmes:
-            print(f"generating fallback placeholders for {ch['display_name']}...")
-            programmes = generate_floptropica_placeholders(ch["tvg_id"], ch["display_name"], ch.get("tvg_logo"))
+            print(f"Generating fallback placeholders for {ch['display_name']}...")
+            programmes = generate_fallback_placeholders(ch["tvg_id"], ch["display_name"], ch.get("tvg_logo"))
 
-        # append the snatched or generated blocks to our master xmls
         for prog in programmes:
             master_xml.append(prog)
             if ch in tv_channels:
-                # deep copy the element by converting to string and back so jellyfin gets a clean clone
                 jf_prog = ET.fromstring(ET.tostring(prog))
                 jellyfin_xml.append(jf_prog)
 
     # 4. WRITE THE XML FILES
     tree_master = ET.ElementTree(master_xml)
-    ET.indent(tree_master, space="  ", level=0) # makes the xml pretty instead of a one-line block
+    ET.indent(tree_master, space="  ", level=0) 
     tree_master.write(master_epg_path, encoding="utf-8", xml_declaration=True)
 
     tree_jellyfin = ET.ElementTree(jellyfin_xml)
     ET.indent(tree_jellyfin, space="  ", level=0)
     tree_jellyfin.write(jellyfin_epg_path, encoding="utf-8", xml_declaration=True)
 
-    # 5. GENERATE THE M3U PLAYLISTS WITH THE NEW EPG LINKS
-    # assuming you host these on cable.fnswe.me
+    # 5. GENERATE THE M3U PLAYLISTS
     master_epg_link = "http://cable.fnswe.me/epg.xml"
     jellyfin_epg_link = "http://cable.fnswe.me/epgjf.xml"
 
@@ -178,7 +173,7 @@ def build_the_broadcasting_empire():
   <genre>{ch["group_title"]}</genre>
 </track>''')
 
-    print("the script absolutely devoured and left no crumbs. epgs fetched, placeholders drafted, and playlists compiled.")
+    print("Generation complete. EPG files fetched, placeholders drafted, and playlists compiled successfully.")
 
 if __name__ == "__main__":
-    build_the_broadcasting_empire()
+    generate_playlists()

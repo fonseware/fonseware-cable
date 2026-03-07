@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Your Network Name">
+  <channel id="002">
+    <display-name>FBS teve</display-name>
+    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png"/>
+  </channel>
+
+  <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="002">
+    <title lang="en">Afternoon Movie Feature</title>
+    <desc lang="en">A broadcast of an independent short film.</desc>
+    <category lang="en">Movies & Entertainment</category>
+    <date>2026</date>
+  </programme>
+
+  <programme start="20260308140000 +0000" stop="20260308150000 +0000" channel="002">
+    <title lang="en">Community News</title>
+    <desc lang="en">Daily updates from the local community.</desc>
+    <category lang="en">News & Information</category>
+    <date>2026</date>
+  </programme>
+</tv>
