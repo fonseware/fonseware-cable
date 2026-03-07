@@ -69,15 +69,27 @@
 >
 > **example epg format:**
 > ```xml
-> <?xml version="1.0" encoding="utf-8"?>
-> <tv generator-info-name="your name">
->   <channel id="your_tvg_id">
->     <display-name>your channel name</display-name>
+> <?xml version="1.0" encoding="UTF-8"?>
+> <tv generator-info-name="fonseware network" source-info-name="fonseware-cable">
+>   <channel id="002"> <display-name>FBS teve</display-name>
+>     <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png"/>
 >   </channel>
->   <programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="your_tvg_id">
->     <title lang="en">my show title</title>
->     <desc lang="en">description of the broadcast.</desc>
+> 
+>   <programme start="20260308120000 +0000" stop="20260308140000 +0000" channel="002">
+>     <title lang="en">Afternoon Movie Feature</title>
+>     <desc lang="en">A broadcast of an independent short film.</desc>
+>     <category lang="en">Movies &amp; Entertainment</category>
+>     <date>2026</date>
+>     <icon src="http://cable.fnswe.me/media/placeholder1.jpg"/>
+>     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
 >   </programme>
+> 
+>   <programme start="20260308140000 +0000" stop="20260308150000 +0000" channel="002">
+>     <title lang="en">Community News</title>
+>     <desc lang="en">Daily updates from the local community.</desc>
+>     <category lang="en">News &amp; Information</category>
+>     <date>2026</date>
+>     </programme>
 > </tv>
 > ```
 
