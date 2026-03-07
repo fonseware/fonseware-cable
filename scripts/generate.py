@@ -1,67 +1,73 @@
 import json
 import os
 
-def build_the_playlist():
-    # find exactly where this script lives, hunty
+def build_the_broadcasting_empire():
+    # find exactly where this script lives
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
-    # build the absolute paths to your json files so python doesn't get lost
-    files_to_scan = [
-        os.path.join(script_dir, "tv.json"),
-        os.path.join(script_dir, "fm.json")
-    ]
+    # input files
+    tv_json_path = os.path.join(script_dir, "tv.json")
+    fm_json_path = os.path.join(script_dir, "fm.json")
 
-    # put the m3u file one folder up from the script's directory
-    m3u_file = os.path.join(script_dir, "..", "ch.m3u")
+    # output destinations (one folder up)
+    master_m3u_path = os.path.join(script_dir, "..", "ch.m3u")
+    jellyfin_m3u_path = os.path.join(script_dir, "..", "chjf.m3u")
+    radio_dir = os.path.join(script_dir, "..", "radio")
 
-    # this will hold all our channels from both files
-    all_channels = []
+    # load the data
+    tv_channels = []
+    fm_channels = []
 
-    for json_file in files_to_scan:
-        if not os.path.exists(json_file):
-            print(f"warning: {os.path.basename(json_file)} is missing in action. skipping it so we don't throw a wrench in the works.")
-            continue
+    if os.path.exists(tv_json_path):
+        with open(tv_json_path, 'r', encoding='utf-8') as f:
+            tv_channels = json.load(f)
+    else:
+        print("oop! tv.json is missing.")
 
-        # open the json and load it up
-        with open(json_file, 'r', encoding='utf-8') as file:
-            try:
-                channels = json.load(file)
-                # add the channels to our master list
-                all_channels.extend(channels)
-                print(f"ate! successfully swallowed {os.path.basename(json_file)}.")
-            except json.JSONDecodeError:
-                print(f"your {os.path.basename(json_file)} is busted. you probably missed a comma somewhere! skipping...")
-                continue
+    if os.path.exists(fm_json_path):
+        with open(fm_json_path, 'r', encoding='utf-8') as f:
+            fm_channels = json.load(f)
+    else:
+        print("oop! fm.json is missing.")
 
-    # if we came up empty-handed after checking both files, abandon ship
-    if not all_channels:
-        print("error: both json files are awol or empty. we are dead in the water. aborting.")
-        return
-
-    # write out the master m3u
-    # normalize path just to make it look pretty in the terminal output
-    m3u_file_clean = os.path.normpath(m3u_file)
-    with open(m3u_file_clean, 'w', encoding='utf-8') as f:
+    # 1. create the master ch.m3u (for kodi, includes everything)
+    with open(os.path.normpath(master_m3u_path), 'w', encoding='utf-8') as f:
         f.write("#EXTM3U\n")
+        for ch in tv_channels + fm_channels:
+            f.write(f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group_title"]}" tvg-chno="{ch["tvg_chno"]}" tvg-country="{ch["tvg_country"]}" tvg-language="{ch["tvg_language"]}" tvg-name="{ch["tvg_name"]}" radio="{ch["radio"]}",{ch["display_name"]}\n{ch["url"]}\n\n')
 
-        for ch in all_channels:
-            try:
-                extinf = (f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" '
-                          f'tvg-logo="{ch["tvg_logo"]}" '
-                          f'group-title="{ch["group_title"]}" '
-                          f'tvg-chno="{ch["tvg_chno"]}" '
-                          f'tvg-country="{ch["tvg_country"]}" '
-                          f'tvg-language="{ch["tvg_language"]}" '
-                          f'tvg-name="{ch["tvg_name"]}" '
-                          f'radio="{ch["radio"]}",{ch["display_name"]}\n')
+    # 2. create the jellyfin-specific chjf.m3u (tv only, ignores fm.json)
+    with open(os.path.normpath(jellyfin_m3u_path), 'w', encoding='utf-8') as f:
+        f.write("#EXTM3U\n")
+        for ch in tv_channels:
+            f.write(f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group_title"]}" tvg-chno="{ch["tvg_chno"]}" tvg-country="{ch["tvg_country"]}" tvg-language="{ch["tvg_language"]}" tvg-name="{ch["tvg_name"]}" radio="{ch["radio"]}",{ch["display_name"]}\n{ch["url"]}\n\n')
 
-                f.write(extinf)
-                f.write(f'{ch["url"]}\n\n')
-            except KeyError as e:
-                print(f"missing an attribute in your json! you dropped the ball on: {e}")
-                return
+    # 3. create the radio directory and strm files
+    if not os.path.exists(os.path.normpath(radio_dir)):
+        os.makedirs(os.path.normpath(radio_dir))
 
-    print(f"purr! your master playlist has been generated and saved at: {m3u_file_clean}")
+    for ch in fm_channels:
+        # clean the filename so windows/linux don't throw a fit over weird characters
+        safe_name = "".join([c for c in ch["display_name"] if c.isalnum() or c.isspace()]).rstrip()
+        
+        strm_path = os.path.join(radio_dir, f"{safe_name}.strm")
+        nfo_path = os.path.join(radio_dir, f"{safe_name}.nfo")
+
+        # write the strm file (just the raw url, exactly what jellyfin wants)
+        with open(os.path.normpath(strm_path), 'w', encoding='utf-8') as f:
+            f.write(ch["url"])
+
+        # write the nfo file (to inject the logo and name into jellyfin's database)
+        with open(os.path.normpath(nfo_path), 'w', encoding='utf-8') as f:
+            f.write(f'''<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<track>
+  <title>{ch["display_name"]}</title>
+  <tracknumber>{ch["tvg_chno"]}</tracknumber>
+  <thumb>{ch["tvg_logo"]}</thumb>
+  <genre>{ch["group_title"]}</genre>
+</track>''')
+
+    print("purr! the script ate and left no crumbs. ch.m3u, chjf.m3u, and the radio folder have been generated successfully.")
 
 if __name__ == "__main__":
-    build_the_playlist()
+    build_the_broadcasting_empire()
