@@ -9,7 +9,8 @@
     "tvg_name": "Cable FM",
     "radio": "true",
     "display_name": "Cable FM",
-    "url": "https://cable.fnswe.me/media/vacant.mp3"
+    "url": "https://cable.fnswe.me/media/vacant.mp3",
+    "epg_url": ""
   },
   {
     "tvg_id": "102",
@@ -21,7 +22,8 @@
     "tvg_name": "FBS effem",
     "radio": "true",
     "display_name": "FBS effem",
-    "url": "https://host.fonseware.com/hls/radio_stream.m3u8"
+    "url": "https://host.fonseware.com/hls/radio_stream.m3u8",
+    "epg_url": ""
   }
   ,
   {
@@ -34,6 +36,7 @@
     "tvg_name": "No channel #3",
     "radio": "true",
     "display_name": "No channel #3",
-    "url": "https://cable.fnswe.me/media/vacant.mp3"
+    "url": "https://cable.fnswe.me/media/vacant.mp3",
+    "epg_url": ""
   }
 ]

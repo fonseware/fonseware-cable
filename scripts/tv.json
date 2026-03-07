@@ -9,7 +9,8 @@
     "tvg_name": "Cable TV",
     "radio": "false",
     "display_name": "Cable TV",
-    "url": "https://cable.fnswe.me/media/intro.mp4"
+    "url": "https://cable.fnswe.me/media/intro.mp4",
+    "epg_url": ""
   },
   {
     "tvg_id": "002",
@@ -21,7 +22,8 @@
     "tvg_name": "FBS teve",
     "radio": "false",
     "display_name": "FBS teve",
-    "url": "https://host.fonseware.com/hls/stream.m3u8"
+    "url": "https://host.fonseware.com/hls/stream.m3u8",
+    "epg_url": "https://host.fonseware.com/epg/fbs_schedule.xml"
   },
   {
     "tvg_id": "003",
@@ -33,6 +35,7 @@
     "tvg_name": "No channel #3",
     "radio": "false",
     "display_name": "No channel #3",
-    "url": "https://cable.fnswe.me/media/vacant.mp4"
+    "url": "https://cable.fnswe.me/media/vacant.mp4",
+    "epg_url": ""
   }
 ]

@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://cable.fnswe.me/epgjf.xml"
 #EXTINF:-1 tvg-id="001" tvg-logo="http://cable.fnswe.me/res/fw-cable-light.png" group-title="Ungrouped" tvg-chno="01" tvg-country="N/A" tvg-language="N/A" tvg-name="Cable TV" radio="false",Cable TV
 https://cable.fnswe.me/media/intro.mp4
 

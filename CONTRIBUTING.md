@@ -48,16 +48,17 @@
 >
 > ```json
 > {
->   "tvg_id": "003",
->   "tvg_logo": "[http://cable.fnswe.me/media/fw-cable-nochannel.png](http://cable.fnswe.me/media/fw-cable-nochannel.png)",
->   "group_title": "Ungrouped",
->   "tvg_chno": "03",
->   "tvg_country": "N/A",
->   "tvg_language": "N/A",
->   "tvg_name": "No channel #3",
+>   "tvg_id": "002",
+>   "tvg_logo": "http://cable.fnswe.me/media/fw-teve-logo2-light.png",
+>   "group_title": "General",
+>   "tvg_chno": "02",
+>   "tvg_country": "LK",
+>   "tvg_language": "English",
+>   "tvg_name": "FBS teve",
 >   "radio": "false",
->   "display_name": "No channel #3",
->   "url": "[https://cable.fnswe.me/media/vacant.mp4](https://cable.fnswe.me/media/vacant.mp4)"
+>   "display_name": "FBS teve",
+>   "url": "https://host.fonseware.com/hls/stream.m3u8",
+>   "epg_url": "https://host.fonseware.com/epg/fbs_schedule.xml"
 > }
 > ```
 
