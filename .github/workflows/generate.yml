@@ -1,0 +1,41 @@
+name: daily epg and playlist generation
+
+on:
+  schedule:
+    # runs at 00:00 utc every day
+    - cron: '0 0 * * *'
+  # allows you to trigger it manually from the actions tab just in case
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: run generation script
+        # navigating to the script folder to run your python file
+        run: python script/generate.py
+
+      - name: commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: automated epg and playlist update [skip ci]"
+          # this prevents the action from triggering other actions in an endless loop
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
