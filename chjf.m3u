@@ -3,7 +3,7 @@
 https://cable.fnswe.me/media/intro.mp4
 
 #EXTINF:-1 tvg-id="002" tvg-logo="http://cable.fnswe.me/media/fw-teve-logo2-light.png" group-title="General" tvg-chno="02" tvg-country="LK" tvg-language="English" tvg-name="FBS teve" radio="false",FBS teve
-https://vod.fonseware.com/hls/stream.m3u8
+https://host.fonseware.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="003" tvg-logo="http://cable.fnswe.me/media/fw-cable-nochannel.png" group-title="Ungrouped" tvg-chno="03" tvg-country="N/A" tvg-language="N/A" tvg-name="No channel #3" radio="false",No channel #3
 https://cable.fnswe.me/media/vacant.mp4
