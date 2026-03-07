@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Your Network Name">
+
   <channel id="002">
     <display-name>FBS teve</display-name>
     <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png"/>
@@ -18,4 +19,5 @@
     <category lang="en">News & Information</category>
     <date>2026</date>
   </programme>
+
 </tv>

@@ -62,24 +62,25 @@
 > }
 > ```
 
-> #### 📅 Providing an EPG (Electronic Program Guide)
-> If you have a custom broadcast schedule, you can host your own EPG XML file and provide the link in the `epg_url` field of your JSON submission. 
+> #### 📅 providing an epg (electronic program guide)
+> if you have a custom broadcast schedule, you can host your own epg xml file and provide the link in the `epg_url` field of your json submission. 
 >
-> Your EPG must be in standard XMLTV format. The `channel id` in your XML **must** match the `tvg_id` you are claiming in your JSON submission. If your EPG fetch fails or you leave the `epg_url` blank, our system will automatically generate 30-minute fallback placeholder blocks so your channel doesn't appear empty.
+> your epg must be in standard xmltv format. the `channel id` in your xml **must** match the `tvg_id` you are claiming in your json submission. if your epg fetch fails or you leave the `epg_url` blank, our system will automatically generate 30-minute fallback placeholder blocks so your channel doesn't appear empty.
 >
-> **Example EPG format:**
+> **example epg format:**
 > ```xml
-> <?xml version="1.0" encoding="UTF-8"?>
-> <tv generator-info-name="Your Name">
->   <channel id="YOUR_TVG_ID">
->     <display-name>Your Channel Name</display-name>
+> <?xml version="1.0" encoding="utf-8"?>
+> <tv generator-info-name="your name">
+>   <channel id="your_tvg_id">
+>     <display-name>your channel name</display-name>
 >   </channel>
->   <programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="YOUR_TVG_ID">
->     <title lang="en">My Show Title</title>
->     <desc lang="en">Description of the broadcast.</desc>
+>   <programme start="20260308120000 +0000" stop="20260308130000 +0000" channel="your_tvg_id">
+>     <title lang="en">my show title</title>
+>     <desc lang="en">description of the broadcast.</desc>
 >   </programme>
 > </tv>
 > ```
+
 
 > #### 💁🏻‍♂️ **want to submit a pr? here are the steps:**
 > 1. fork this repository.

@@ -13,18 +13,19 @@ the goal is to fill **200 channels** with original, independent, 24/7 (preferabl
 > we are not a piracy index. do not submit iptv-org or similar links. do not submit pirated sports streams. they will be rejected, and you will be blocked. do not submit streams you found on the internet.
 
 > #### **📺 watch tv & listen to radio now**
-> Copy the links below into your favorite media player (such as VLC, Kodi, or PotPlayer). We highly recommend Kodi for the best channel management and EPG viewing experience.
+> copy the links below into your favorite media player (such as vlc, kodi, or potplayer). we highly recommend kodi for the best channel management and epg viewing experience.
 > 
-> **Playlist URL (M3U):**
+> **playlist url (m3u):**
 > ```text
-> [http://cable.fnswe.me/ch.m3u](http://cable.fnswe.me/ch.m3u)
+> http://cable.fnswe.me/ch.m3u
 > ```
 > 
-> **TV Guide URL (EPG):**
+> **tv guide url (epg):**
 > ```text
-> [http://cable.fnswe.me/epg.xml](http://cable.fnswe.me/epg.xml)
+> http://cable.fnswe.me/epg.xml
 > ```
-> *(Note: If you are using Jellyfin, use `http://cable.fnswe.me/chjf.m3u` and `http://cable.fnswe.me/epgjf.xml` respectively).*
+> *(note: if you are using jellyfin, use `http://cable.fnswe.me/chjf.m3u` and `http://cable.fnswe.me/epgjf.xml` respectively).*
+
 
 currently, all vacant channels point to a placeholder loop. when you submit a valid stream, you claim that channel number permanently (as long as your uptime remains stable).
 
