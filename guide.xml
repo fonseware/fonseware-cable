@@ -7,4 +7,12 @@
     <title>FBS teve Launch Party</title>
     <desc>The absolute best programming on the floptropican network.</desc>
   </programme>
+    <programme start="20260307120000 +0530" stop="20260307235900 +0530" channel="001">
+    <title>FBS teve Launch Party</title>
+    <desc>The absolute best programming on the floptropican network.</desc>
+  </programme>
+    <programme start="20260307120000 +0530" stop="20260307235900 +0530" channel="003">
+    <title>FBS teve Launch Party</title>
+    <desc>The absolute best programming on the floptropican network.</desc>
+  </programme>
 </tv>
