@@ -1,6 +1,7 @@
 import json
 import os
 import requests
+import random
 from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET
 
@@ -29,6 +30,10 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
     # Snap to the nearest 30-minute mark for grid alignment
     now = now - timedelta(minutes=now.minute % 30, seconds=now.second, microseconds=now.microsecond)
 
+    # placeholder pool for the programs
+    # change .png to .jpg if your images are jpegs
+    placeholders = ["placeholder1.jpg", "placeholder2.jpg", "placeholder3.jpg"]
+
     # 48 hours = 96 half-hour blocks
     for i in range(96):
         start_time = now + timedelta(minutes=30 * i)
@@ -52,8 +57,12 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
         date = ET.SubElement(prog, "date")
         date.text = start_time.strftime("%Y")
 
-        if logo_url:
-            ET.SubElement(prog, "icon", src=logo_url)
+        # randomly select one of your 3 images for this specific time block
+        chosen_pic = random.choice(placeholders)
+        
+        # assign it via the media url you are already using for logos
+        pic_url = f"http://cable.fnswe.me/media/{chosen_pic}"
+        ET.SubElement(prog, "icon", src=pic_url)
 
         # Dummy season/episode number using XMLTV standard (0-indexed)
         ep_num = ET.SubElement(prog, "episode-num", system="xmltv_ns")

@@ -12,20 +12,12 @@
     <display-name>No channel #3</display-name>
     <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
   </channel>
-  <programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="001">
-    <title lang="en">No program set</title>
-    <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
   <programme start="20260307190000 +0000" stop="20260307193000 +0000" channel="001">
     <title lang="en">No program set</title>
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307193000 +0000" stop="20260307200000 +0000" channel="001">
@@ -33,7 +25,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="001">
@@ -41,7 +33,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="001">
@@ -49,7 +41,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="001">
@@ -57,7 +49,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="001">
@@ -65,7 +57,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307220000 +0000" stop="20260307223000 +0000" channel="001">
@@ -73,7 +65,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="001">
@@ -81,7 +73,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307230000 +0000" stop="20260307233000 +0000" channel="001">
@@ -89,7 +81,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307233000 +0000" stop="20260308000000 +0000" channel="001">
@@ -97,7 +89,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308000000 +0000" stop="20260308003000 +0000" channel="001">
@@ -105,7 +97,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308003000 +0000" stop="20260308010000 +0000" channel="001">
@@ -113,7 +105,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="001">
@@ -121,7 +113,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="001">
@@ -129,7 +121,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308020000 +0000" stop="20260308023000 +0000" channel="001">
@@ -137,7 +129,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="001">
@@ -145,7 +137,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="001">
@@ -153,7 +145,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308033000 +0000" stop="20260308040000 +0000" channel="001">
@@ -161,7 +153,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308040000 +0000" stop="20260308043000 +0000" channel="001">
@@ -169,7 +161,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308043000 +0000" stop="20260308050000 +0000" channel="001">
@@ -177,7 +169,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308050000 +0000" stop="20260308053000 +0000" channel="001">
@@ -185,7 +177,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308053000 +0000" stop="20260308060000 +0000" channel="001">
@@ -193,7 +185,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="001">
@@ -201,7 +193,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="001">
@@ -209,7 +201,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="001">
@@ -217,7 +209,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="001">
@@ -225,7 +217,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="001">
@@ -233,7 +225,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="001">
@@ -241,7 +233,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308090000 +0000" stop="20260308093000 +0000" channel="001">
@@ -249,7 +241,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="001">
@@ -257,7 +249,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308100000 +0000" stop="20260308103000 +0000" channel="001">
@@ -265,7 +257,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="001">
@@ -273,7 +265,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308110000 +0000" stop="20260308113000 +0000" channel="001">
@@ -281,7 +273,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308113000 +0000" stop="20260308120000 +0000" channel="001">
@@ -289,7 +281,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308120000 +0000" stop="20260308123000 +0000" channel="001">
@@ -297,7 +289,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308123000 +0000" stop="20260308130000 +0000" channel="001">
@@ -305,7 +297,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="001">
@@ -313,7 +305,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308133000 +0000" stop="20260308140000 +0000" channel="001">
@@ -321,7 +313,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308140000 +0000" stop="20260308143000 +0000" channel="001">
@@ -329,7 +321,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="001">
@@ -337,7 +329,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308150000 +0000" stop="20260308153000 +0000" channel="001">
@@ -345,7 +337,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="001">
@@ -353,7 +345,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="001">
@@ -361,7 +353,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="001">
@@ -369,7 +361,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="001">
@@ -377,7 +369,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="001">
@@ -385,7 +377,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="001">
@@ -393,7 +385,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="001">
@@ -401,7 +393,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308190000 +0000" stop="20260308193000 +0000" channel="001">
@@ -409,7 +401,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308193000 +0000" stop="20260308200000 +0000" channel="001">
@@ -417,7 +409,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="001">
@@ -425,7 +417,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308203000 +0000" stop="20260308210000 +0000" channel="001">
@@ -433,7 +425,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="001">
@@ -441,7 +433,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="001">
@@ -449,7 +441,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="001">
@@ -457,7 +449,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308223000 +0000" stop="20260308230000 +0000" channel="001">
@@ -465,7 +457,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="001">
@@ -473,7 +465,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="001">
@@ -481,7 +473,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="001">
@@ -489,7 +481,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309003000 +0000" stop="20260309010000 +0000" channel="001">
@@ -497,7 +489,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309010000 +0000" stop="20260309013000 +0000" channel="001">
@@ -505,7 +497,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309013000 +0000" stop="20260309020000 +0000" channel="001">
@@ -513,7 +505,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309020000 +0000" stop="20260309023000 +0000" channel="001">
@@ -521,7 +513,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309023000 +0000" stop="20260309030000 +0000" channel="001">
@@ -529,7 +521,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309030000 +0000" stop="20260309033000 +0000" channel="001">
@@ -537,7 +529,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309033000 +0000" stop="20260309040000 +0000" channel="001">
@@ -545,7 +537,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="001">
@@ -553,7 +545,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="001">
@@ -561,7 +553,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="001">
@@ -569,7 +561,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309053000 +0000" stop="20260309060000 +0000" channel="001">
@@ -577,7 +569,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309060000 +0000" stop="20260309063000 +0000" channel="001">
@@ -585,7 +577,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="001">
@@ -593,7 +585,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309070000 +0000" stop="20260309073000 +0000" channel="001">
@@ -601,7 +593,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309073000 +0000" stop="20260309080000 +0000" channel="001">
@@ -609,7 +601,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309080000 +0000" stop="20260309083000 +0000" channel="001">
@@ -617,7 +609,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="001">
@@ -625,7 +617,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="001">
@@ -633,7 +625,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="001">
@@ -641,7 +633,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309100000 +0000" stop="20260309103000 +0000" channel="001">
@@ -649,7 +641,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="001">
@@ -657,7 +649,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309110000 +0000" stop="20260309113000 +0000" channel="001">
@@ -665,7 +657,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309113000 +0000" stop="20260309120000 +0000" channel="001">
@@ -673,7 +665,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309120000 +0000" stop="20260309123000 +0000" channel="001">
@@ -681,7 +673,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309123000 +0000" stop="20260309130000 +0000" channel="001">
@@ -689,7 +681,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="001">
@@ -697,7 +689,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="001">
@@ -705,7 +697,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309140000 +0000" stop="20260309143000 +0000" channel="001">
@@ -713,7 +705,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309143000 +0000" stop="20260309150000 +0000" channel="001">
@@ -721,7 +713,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309150000 +0000" stop="20260309153000 +0000" channel="001">
@@ -729,7 +721,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309153000 +0000" stop="20260309160000 +0000" channel="001">
@@ -737,7 +729,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309160000 +0000" stop="20260309163000 +0000" channel="001">
@@ -745,7 +737,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="001">
@@ -753,7 +745,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="001">
@@ -761,7 +753,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="001">
@@ -769,7 +761,7 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309180000 +0000" stop="20260309183000 +0000" channel="001">
@@ -777,15 +769,15 @@
     <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/res/fw-cable-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="002">
+  <programme start="20260309183000 +0000" stop="20260309190000 +0000" channel="001">
     <title lang="en">No program set</title>
-    <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
+    <desc lang="en">Schedule information for Cable TV is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307190000 +0000" stop="20260307193000 +0000" channel="002">
@@ -793,7 +785,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307193000 +0000" stop="20260307200000 +0000" channel="002">
@@ -801,7 +793,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="002">
@@ -809,7 +801,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="002">
@@ -817,7 +809,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="002">
@@ -825,7 +817,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="002">
@@ -833,7 +825,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307220000 +0000" stop="20260307223000 +0000" channel="002">
@@ -841,7 +833,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="002">
@@ -849,7 +841,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307230000 +0000" stop="20260307233000 +0000" channel="002">
@@ -857,7 +849,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307233000 +0000" stop="20260308000000 +0000" channel="002">
@@ -865,7 +857,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308000000 +0000" stop="20260308003000 +0000" channel="002">
@@ -873,7 +865,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308003000 +0000" stop="20260308010000 +0000" channel="002">
@@ -881,7 +873,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="002">
@@ -889,7 +881,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="002">
@@ -897,7 +889,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308020000 +0000" stop="20260308023000 +0000" channel="002">
@@ -905,7 +897,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="002">
@@ -913,7 +905,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="002">
@@ -921,7 +913,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308033000 +0000" stop="20260308040000 +0000" channel="002">
@@ -929,7 +921,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308040000 +0000" stop="20260308043000 +0000" channel="002">
@@ -937,7 +929,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308043000 +0000" stop="20260308050000 +0000" channel="002">
@@ -945,7 +937,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308050000 +0000" stop="20260308053000 +0000" channel="002">
@@ -953,7 +945,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308053000 +0000" stop="20260308060000 +0000" channel="002">
@@ -961,7 +953,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="002">
@@ -969,7 +961,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="002">
@@ -977,7 +969,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="002">
@@ -985,7 +977,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="002">
@@ -993,7 +985,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="002">
@@ -1001,7 +993,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="002">
@@ -1009,7 +1001,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308090000 +0000" stop="20260308093000 +0000" channel="002">
@@ -1017,7 +1009,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="002">
@@ -1025,7 +1017,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308100000 +0000" stop="20260308103000 +0000" channel="002">
@@ -1033,7 +1025,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="002">
@@ -1041,7 +1033,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308110000 +0000" stop="20260308113000 +0000" channel="002">
@@ -1049,7 +1041,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308113000 +0000" stop="20260308120000 +0000" channel="002">
@@ -1057,7 +1049,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308120000 +0000" stop="20260308123000 +0000" channel="002">
@@ -1065,7 +1057,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308123000 +0000" stop="20260308130000 +0000" channel="002">
@@ -1073,7 +1065,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="002">
@@ -1081,7 +1073,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308133000 +0000" stop="20260308140000 +0000" channel="002">
@@ -1089,7 +1081,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308140000 +0000" stop="20260308143000 +0000" channel="002">
@@ -1097,7 +1089,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="002">
@@ -1105,7 +1097,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308150000 +0000" stop="20260308153000 +0000" channel="002">
@@ -1113,7 +1105,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="002">
@@ -1121,7 +1113,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="002">
@@ -1129,7 +1121,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="002">
@@ -1137,7 +1129,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="002">
@@ -1145,7 +1137,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="002">
@@ -1153,7 +1145,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="002">
@@ -1161,7 +1153,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="002">
@@ -1169,7 +1161,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308190000 +0000" stop="20260308193000 +0000" channel="002">
@@ -1177,7 +1169,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308193000 +0000" stop="20260308200000 +0000" channel="002">
@@ -1185,7 +1177,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="002">
@@ -1193,7 +1185,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308203000 +0000" stop="20260308210000 +0000" channel="002">
@@ -1201,7 +1193,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="002">
@@ -1209,7 +1201,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="002">
@@ -1217,7 +1209,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="002">
@@ -1225,7 +1217,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308223000 +0000" stop="20260308230000 +0000" channel="002">
@@ -1233,7 +1225,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="002">
@@ -1241,7 +1233,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="002">
@@ -1249,7 +1241,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="002">
@@ -1257,7 +1249,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309003000 +0000" stop="20260309010000 +0000" channel="002">
@@ -1265,7 +1257,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309010000 +0000" stop="20260309013000 +0000" channel="002">
@@ -1273,7 +1265,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309013000 +0000" stop="20260309020000 +0000" channel="002">
@@ -1281,7 +1273,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309020000 +0000" stop="20260309023000 +0000" channel="002">
@@ -1289,7 +1281,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309023000 +0000" stop="20260309030000 +0000" channel="002">
@@ -1297,7 +1289,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309030000 +0000" stop="20260309033000 +0000" channel="002">
@@ -1305,7 +1297,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309033000 +0000" stop="20260309040000 +0000" channel="002">
@@ -1313,7 +1305,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="002">
@@ -1321,7 +1313,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="002">
@@ -1329,7 +1321,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="002">
@@ -1337,7 +1329,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309053000 +0000" stop="20260309060000 +0000" channel="002">
@@ -1345,7 +1337,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309060000 +0000" stop="20260309063000 +0000" channel="002">
@@ -1353,7 +1345,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="002">
@@ -1361,7 +1353,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309070000 +0000" stop="20260309073000 +0000" channel="002">
@@ -1369,7 +1361,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309073000 +0000" stop="20260309080000 +0000" channel="002">
@@ -1377,7 +1369,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309080000 +0000" stop="20260309083000 +0000" channel="002">
@@ -1385,7 +1377,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="002">
@@ -1393,7 +1385,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="002">
@@ -1401,7 +1393,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="002">
@@ -1409,7 +1401,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309100000 +0000" stop="20260309103000 +0000" channel="002">
@@ -1417,7 +1409,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="002">
@@ -1425,7 +1417,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309110000 +0000" stop="20260309113000 +0000" channel="002">
@@ -1433,7 +1425,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309113000 +0000" stop="20260309120000 +0000" channel="002">
@@ -1441,7 +1433,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309120000 +0000" stop="20260309123000 +0000" channel="002">
@@ -1449,7 +1441,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309123000 +0000" stop="20260309130000 +0000" channel="002">
@@ -1457,7 +1449,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="002">
@@ -1465,7 +1457,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="002">
@@ -1473,7 +1465,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309140000 +0000" stop="20260309143000 +0000" channel="002">
@@ -1481,7 +1473,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309143000 +0000" stop="20260309150000 +0000" channel="002">
@@ -1489,7 +1481,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309150000 +0000" stop="20260309153000 +0000" channel="002">
@@ -1497,7 +1489,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309153000 +0000" stop="20260309160000 +0000" channel="002">
@@ -1505,7 +1497,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309160000 +0000" stop="20260309163000 +0000" channel="002">
@@ -1513,7 +1505,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="002">
@@ -1521,7 +1513,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="002">
@@ -1529,7 +1521,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="002">
@@ -1537,7 +1529,7 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309180000 +0000" stop="20260309183000 +0000" channel="002">
@@ -1545,15 +1537,15 @@
     <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-teve-logo2-light.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260307183000 +0000" stop="20260307190000 +0000" channel="003">
+  <programme start="20260309183000 +0000" stop="20260309190000 +0000" channel="002">
     <title lang="en">No program set</title>
-    <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
+    <desc lang="en">Schedule information for FBS teve is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307190000 +0000" stop="20260307193000 +0000" channel="003">
@@ -1561,7 +1553,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307193000 +0000" stop="20260307200000 +0000" channel="003">
@@ -1569,7 +1561,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307200000 +0000" stop="20260307203000 +0000" channel="003">
@@ -1577,7 +1569,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307203000 +0000" stop="20260307210000 +0000" channel="003">
@@ -1585,7 +1577,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307210000 +0000" stop="20260307213000 +0000" channel="003">
@@ -1593,7 +1585,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307213000 +0000" stop="20260307220000 +0000" channel="003">
@@ -1601,7 +1593,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307220000 +0000" stop="20260307223000 +0000" channel="003">
@@ -1609,7 +1601,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307223000 +0000" stop="20260307230000 +0000" channel="003">
@@ -1617,7 +1609,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307230000 +0000" stop="20260307233000 +0000" channel="003">
@@ -1625,7 +1617,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260307233000 +0000" stop="20260308000000 +0000" channel="003">
@@ -1633,7 +1625,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308000000 +0000" stop="20260308003000 +0000" channel="003">
@@ -1641,7 +1633,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308003000 +0000" stop="20260308010000 +0000" channel="003">
@@ -1649,7 +1641,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308010000 +0000" stop="20260308013000 +0000" channel="003">
@@ -1657,7 +1649,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308013000 +0000" stop="20260308020000 +0000" channel="003">
@@ -1665,7 +1657,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308020000 +0000" stop="20260308023000 +0000" channel="003">
@@ -1673,7 +1665,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308023000 +0000" stop="20260308030000 +0000" channel="003">
@@ -1681,7 +1673,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308030000 +0000" stop="20260308033000 +0000" channel="003">
@@ -1689,7 +1681,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308033000 +0000" stop="20260308040000 +0000" channel="003">
@@ -1697,7 +1689,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308040000 +0000" stop="20260308043000 +0000" channel="003">
@@ -1705,7 +1697,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308043000 +0000" stop="20260308050000 +0000" channel="003">
@@ -1713,7 +1705,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308050000 +0000" stop="20260308053000 +0000" channel="003">
@@ -1721,7 +1713,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308053000 +0000" stop="20260308060000 +0000" channel="003">
@@ -1729,7 +1721,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308060000 +0000" stop="20260308063000 +0000" channel="003">
@@ -1737,7 +1729,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308063000 +0000" stop="20260308070000 +0000" channel="003">
@@ -1745,7 +1737,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308070000 +0000" stop="20260308073000 +0000" channel="003">
@@ -1753,7 +1745,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308073000 +0000" stop="20260308080000 +0000" channel="003">
@@ -1761,7 +1753,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308080000 +0000" stop="20260308083000 +0000" channel="003">
@@ -1769,7 +1761,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308083000 +0000" stop="20260308090000 +0000" channel="003">
@@ -1777,7 +1769,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308090000 +0000" stop="20260308093000 +0000" channel="003">
@@ -1785,7 +1777,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308093000 +0000" stop="20260308100000 +0000" channel="003">
@@ -1793,7 +1785,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308100000 +0000" stop="20260308103000 +0000" channel="003">
@@ -1801,7 +1793,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308103000 +0000" stop="20260308110000 +0000" channel="003">
@@ -1809,7 +1801,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308110000 +0000" stop="20260308113000 +0000" channel="003">
@@ -1817,7 +1809,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308113000 +0000" stop="20260308120000 +0000" channel="003">
@@ -1825,7 +1817,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308120000 +0000" stop="20260308123000 +0000" channel="003">
@@ -1833,7 +1825,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308123000 +0000" stop="20260308130000 +0000" channel="003">
@@ -1841,7 +1833,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308130000 +0000" stop="20260308133000 +0000" channel="003">
@@ -1849,7 +1841,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308133000 +0000" stop="20260308140000 +0000" channel="003">
@@ -1857,7 +1849,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308140000 +0000" stop="20260308143000 +0000" channel="003">
@@ -1865,7 +1857,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308143000 +0000" stop="20260308150000 +0000" channel="003">
@@ -1873,7 +1865,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308150000 +0000" stop="20260308153000 +0000" channel="003">
@@ -1881,7 +1873,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308153000 +0000" stop="20260308160000 +0000" channel="003">
@@ -1889,7 +1881,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308160000 +0000" stop="20260308163000 +0000" channel="003">
@@ -1897,7 +1889,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308163000 +0000" stop="20260308170000 +0000" channel="003">
@@ -1905,7 +1897,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308170000 +0000" stop="20260308173000 +0000" channel="003">
@@ -1913,7 +1905,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308173000 +0000" stop="20260308180000 +0000" channel="003">
@@ -1921,7 +1913,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308180000 +0000" stop="20260308183000 +0000" channel="003">
@@ -1929,7 +1921,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308183000 +0000" stop="20260308190000 +0000" channel="003">
@@ -1937,7 +1929,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308190000 +0000" stop="20260308193000 +0000" channel="003">
@@ -1945,7 +1937,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308193000 +0000" stop="20260308200000 +0000" channel="003">
@@ -1953,7 +1945,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308200000 +0000" stop="20260308203000 +0000" channel="003">
@@ -1961,7 +1953,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308203000 +0000" stop="20260308210000 +0000" channel="003">
@@ -1969,7 +1961,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308210000 +0000" stop="20260308213000 +0000" channel="003">
@@ -1977,7 +1969,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308213000 +0000" stop="20260308220000 +0000" channel="003">
@@ -1985,7 +1977,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308220000 +0000" stop="20260308223000 +0000" channel="003">
@@ -1993,7 +1985,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308223000 +0000" stop="20260308230000 +0000" channel="003">
@@ -2001,7 +1993,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308230000 +0000" stop="20260308233000 +0000" channel="003">
@@ -2009,7 +2001,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260308233000 +0000" stop="20260309000000 +0000" channel="003">
@@ -2017,7 +2009,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309000000 +0000" stop="20260309003000 +0000" channel="003">
@@ -2025,7 +2017,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309003000 +0000" stop="20260309010000 +0000" channel="003">
@@ -2033,7 +2025,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309010000 +0000" stop="20260309013000 +0000" channel="003">
@@ -2041,7 +2033,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309013000 +0000" stop="20260309020000 +0000" channel="003">
@@ -2049,7 +2041,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309020000 +0000" stop="20260309023000 +0000" channel="003">
@@ -2057,7 +2049,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309023000 +0000" stop="20260309030000 +0000" channel="003">
@@ -2065,7 +2057,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309030000 +0000" stop="20260309033000 +0000" channel="003">
@@ -2073,7 +2065,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309033000 +0000" stop="20260309040000 +0000" channel="003">
@@ -2081,7 +2073,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309040000 +0000" stop="20260309043000 +0000" channel="003">
@@ -2089,7 +2081,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309043000 +0000" stop="20260309050000 +0000" channel="003">
@@ -2097,7 +2089,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309050000 +0000" stop="20260309053000 +0000" channel="003">
@@ -2105,7 +2097,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309053000 +0000" stop="20260309060000 +0000" channel="003">
@@ -2113,7 +2105,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309060000 +0000" stop="20260309063000 +0000" channel="003">
@@ -2121,7 +2113,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309063000 +0000" stop="20260309070000 +0000" channel="003">
@@ -2129,7 +2121,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309070000 +0000" stop="20260309073000 +0000" channel="003">
@@ -2137,7 +2129,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309073000 +0000" stop="20260309080000 +0000" channel="003">
@@ -2145,7 +2137,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309080000 +0000" stop="20260309083000 +0000" channel="003">
@@ -2153,7 +2145,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309083000 +0000" stop="20260309090000 +0000" channel="003">
@@ -2161,7 +2153,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309090000 +0000" stop="20260309093000 +0000" channel="003">
@@ -2169,7 +2161,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309093000 +0000" stop="20260309100000 +0000" channel="003">
@@ -2177,7 +2169,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309100000 +0000" stop="20260309103000 +0000" channel="003">
@@ -2185,7 +2177,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309103000 +0000" stop="20260309110000 +0000" channel="003">
@@ -2193,7 +2185,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309110000 +0000" stop="20260309113000 +0000" channel="003">
@@ -2201,7 +2193,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309113000 +0000" stop="20260309120000 +0000" channel="003">
@@ -2209,7 +2201,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309120000 +0000" stop="20260309123000 +0000" channel="003">
@@ -2217,7 +2209,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309123000 +0000" stop="20260309130000 +0000" channel="003">
@@ -2225,7 +2217,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309130000 +0000" stop="20260309133000 +0000" channel="003">
@@ -2233,7 +2225,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309133000 +0000" stop="20260309140000 +0000" channel="003">
@@ -2241,7 +2233,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309140000 +0000" stop="20260309143000 +0000" channel="003">
@@ -2249,7 +2241,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309143000 +0000" stop="20260309150000 +0000" channel="003">
@@ -2257,7 +2249,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309150000 +0000" stop="20260309153000 +0000" channel="003">
@@ -2265,7 +2257,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309153000 +0000" stop="20260309160000 +0000" channel="003">
@@ -2273,7 +2265,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309160000 +0000" stop="20260309163000 +0000" channel="003">
@@ -2281,7 +2273,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309163000 +0000" stop="20260309170000 +0000" channel="003">
@@ -2289,7 +2281,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309170000 +0000" stop="20260309173000 +0000" channel="003">
@@ -2297,7 +2289,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309173000 +0000" stop="20260309180000 +0000" channel="003">
@@ -2305,7 +2297,7 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260309180000 +0000" stop="20260309183000 +0000" channel="003">
@@ -2313,7 +2305,15 @@
     <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/fw-cable-nochannel.png" />
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260309183000 +0000" stop="20260309190000 +0000" channel="003">
+    <title lang="en">No program set</title>
+    <desc lang="en">Schedule information for No channel #3 is currently unavailable. Please check back later.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
 </tv>
