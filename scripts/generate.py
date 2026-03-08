@@ -57,7 +57,7 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
     
     # check if it's one of the static broadcast channels (case-insensitive)
     name_lower = channel_name.lower()
-    is_static_channel = "cable tv" in name_lower or "cable fm" in name_lower or "no channel" or "no tv channel" or "no fm channel" in name_lower
+    is_static_channel = "cable tv" in name_lower or "cable fm" in name_lower or "no channel" in name_lower or "no tv channel" in name_lower or "no fm channel" in name_lower
 
     desc_text = f"The broadcaster for {channel_name} has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this."
 
