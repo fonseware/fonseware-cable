@@ -6,39 +6,64 @@ from datetime import datetime, timedelta, timezone
 import xml.etree.ElementTree as ET
 
 def fetch_external_epg(url, master_channel_id):
-    """fetches the broadcaster's epg and assigns it the correct channel id."""
+    """fetches the broadcaster's epg, checks if it's outdated, and assigns the correct channel id."""
     try:
-        # 10 second timeout to prevent hanging on unresponsive servers
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         tree = ET.fromstring(response.content)
         
         programmes = []
+        latest_stop = None
+        now = datetime.now(timezone.utc)
+        
         for prog in tree.findall("programme"):
+            stop_str = prog.get("stop")
+            if stop_str:
+                try:
+                    # parse xmltv date format (e.g., "20260308120000 +0000")
+                    stop_time = datetime.strptime(stop_str, "%Y%m%d%H%M%S %z")
+                    if latest_stop is None or stop_time > latest_stop:
+                        latest_stop = stop_time
+                except ValueError:
+                    pass # ignore weirdly formatted dates for the max check
+            
             # overwrite the source channel id with the official tvg_id
             prog.set("channel", master_channel_id)
             programmes.append(prog)
+            
+        # smart check: if all programs ended in the past, the epg is outdated
+        if latest_stop and latest_stop < now:
+            print(f"epg for {master_channel_id} is outdated (last program ended at {latest_stop}). switching to placeholders.")
+            return None
+            
+        # if the list is completely empty, also fallback
+        if not programmes:
+            return None
+            
         return programmes
     except Exception as e:
         print(f"error: failed to fetch epg for {master_channel_id} at {url}: {e}")
         return None
 
 def generate_fallback_placeholders(channel_id, channel_name, logo_url):
-    """generates 24 hours of placeholders, either as one block or 30-min chunks."""
+    """generates exactly one day (12:00 am to 12:00 am next day) of placeholders."""
     programmes = []
     now = datetime.now(timezone.utc)
-    # snap to the nearest 30-minute mark for grid alignment
-    now = now - timedelta(minutes=now.minute % 30, seconds=now.second, microseconds=now.microsecond)
-
-    # placeholder pool for the programs
+    
+    # strictly lock the timeframe from 12:00 am today to 12:00 am tomorrow
+    start_of_day = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    
     placeholders = ["placeholder1.jpg", "placeholder2.jpg", "placeholder3.jpg"]
+    
+    # check if it's one of the static broadcast channels (case-insensitive)
+    name_lower = channel_name.lower()
+    is_static_channel = "cable tv" in name_lower or "cable fm" in name_lower or "no channel" in name_lower
 
-    # check if it's one of the static broadcast channels
-    is_static_channel = "Cable TV" in channel_name or "Cable FM" in channel_name or "No channel" in channel_name
+    desc_text = f"The broadcaster for {channel_name} has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this."
 
     if is_static_channel:
-        # generate a single 24-hour block
-        start_time = now
+        # generate a single 24-hour block from 12:00 am to 12:00 am next day
+        start_time = start_of_day
         end_time = start_time + timedelta(hours=24)
 
         prog = ET.Element("programme", 
@@ -47,10 +72,10 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
                           channel=channel_id)
 
         title = ET.SubElement(prog, "title", lang="en")
-        title.text = f"{channel_name} 24/7 Broadcast"
+        title.text = "No programme set"
 
         desc = ET.SubElement(prog, "desc", lang="en")
-        desc.text = f"continuous 24-hour broadcast for {channel_name}."
+        desc.text = desc_text
 
         category = ET.SubElement(prog, "category", lang="en")
         category.text = "General"
@@ -68,9 +93,9 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
         programmes.append(prog)
 
     else:
-        # 24 hours = 48 half-hour blocks
+        # 24 hours = 48 half-hour blocks from 12:00 am to 12:00 am
         for i in range(48):
-            start_time = now + timedelta(minutes=30 * i)
+            start_time = start_of_day + timedelta(minutes=30 * i)
             end_time = start_time + timedelta(minutes=30)
 
             prog = ET.Element("programme", 
@@ -82,7 +107,7 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
             title.text = "No program set"
 
             desc = ET.SubElement(prog, "desc", lang="en")
-            desc.text = f"schedule information for {channel_name} is currently unavailable. please check back later."
+            desc.text = desc_text
 
             category = ET.SubElement(prog, "category", lang="en")
             category.text = "General"
@@ -163,6 +188,7 @@ def generate_playlists():
 
         for prog in programmes:
             master_xml.append(prog)
+            # strictly only append to jellyfin if it's a tv channel
             if ch in tv_channels:
                 jf_prog = ET.fromstring(ET.tostring(prog))
                 jellyfin_xml.append(jf_prog)
