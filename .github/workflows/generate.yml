@@ -30,7 +30,7 @@ jobs:
 
       - name: run generation script
         # navigating to the script folder to run your python file
-        run: python script/generate.py
+        run: python scripts/generate.py
 
       - name: commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
