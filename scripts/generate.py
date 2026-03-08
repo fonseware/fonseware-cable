@@ -104,7 +104,7 @@ def generate_fallback_placeholders(channel_id, channel_name, logo_url):
                               channel=channel_id)
 
             title = ET.SubElement(prog, "title", lang="en")
-            title.text = "No program set"
+            title.text = "No programme set"
 
             desc = ET.SubElement(prog, "desc", lang="en")
             desc.text = desc_text
