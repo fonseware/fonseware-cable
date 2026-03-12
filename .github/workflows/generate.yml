@@ -35,7 +35,15 @@ jobs:
       - name: commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: automated epg and playlist update [skip ci]"
-          # this prevents the action from triggering other actions in an endless loop
+          # option 1: purely your name (uncomment the user_name and user_email below)
+          # commit_user_name: "shannon"
+          # commit_user_email: "your-verified-github-email@example.com"
+          
+          # option 2: keep the bot as the committer, but co-author it!
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: |
+            chore: automated epg and playlist update [skip ci]
+            
+            
+            Co-authored-by: shannon <fonsekashannonshiwantha@gmail.com>
