@@ -112,11 +112,10 @@
 > 2. add your logo to the `/media` folder.
 > 3. navigate to `scripts/tv.json`.
 > 4. find the first `[vacant]` channel block you like.
-> 5. replace the stock data in that block with your > custom json data (like the example above).
-> 6. run `generate.py` in that same folder to update the > playlists.
-> 7. submit your pr. i will review it manually and > process it.
+> 5. replace the stock data in that block with your custom json data (like the example above).
+> 6. run `generate.py` in that same folder to update the  playlists.
+> 7. submit your pr. i will review it manually and process it.
 
 #### ⚖️ directory management & rights
 
-> please note that our goal of 200 channels is not a > strict limit. multiple channels can continue to be > added beyond this number.
-> once the directory reaches a self-sufficient number of > active channels, we reserve the right to reorder the > channel list accordingly to maintain a structured > guide. furthermore, we reserve the right to make > changes to the directory, modify listings, or terminate > any stream at any time, with or without reason.
+> please note that our goal of 200 channels is not a  strict limit. multiple channels can continue to be  added beyond this number. once the directory reaches a self-sufficient number of  active channels, we reserve the right to reorder the  channel list accordingly to maintain a structured  guide. furthermore, we reserve the right to make  changes to the directory, modify listings, or terminate  any stream at any time, with or without reason.
