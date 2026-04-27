@@ -24,7 +24,6 @@ http://cable.fnswe.me/ch.m3u
 ```text
 http://cable.fnswe.me/epg.xml
 ```
-*(note: if you are using jellyfin, use `http://cable.fnswe.me/chjf.m3u` and `http://cable.fnswe.me/epgjf.xml` respectively).*
 
 currently, all vacant channels point to a placeholder loop. when you submit a valid stream, you claim that channel number permanently (as long as your uptime remains stable).
 
