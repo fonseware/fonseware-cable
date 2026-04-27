@@ -1,4 +1,4 @@
-  {
+[ {
     "tvg_id": "003",
     "tvg_logo": "http://cable.fnswe.me/media/fw-cable-nochannel.png",
     "group_title": "Ungrouped",
@@ -10,4 +10,4 @@
     "display_name": "No TV channel",
     "url": "https://cable.fnswe.me/media/vacant.mp4",
     "epg_url": ""
-  }
+  }]
