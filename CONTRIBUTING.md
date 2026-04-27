@@ -13,20 +13,20 @@
 #### 📋 suggested channel order
 
 > while contributors can submit their stream to any vacant channel slot they prefer, we highly encourage following this general order to keep the guide organised, similar to a traditional tv service:
-
-| ch. no                         | use                                                           |
-| ------------------------------ | ------------------------------------------------------------- |
-| **001 - 020**                  | local & community channels (including university tv)          |
-| **021 - 040**                 | news & information                                            |
-| **041 - 060**                 | music & radio streams                                         |
-| **061 - 080**                 | kids & family                                                 |
-| **081 - 100**                 | edutainment & documentaries                                   |
-| **101 - 120**                 | sports (legal broadcasts only)                                |
-| **121 - 140**                 | movies & entertainment                                        |
-| **141 - 160**                 | regional & international languages (e.g., hindi, tamil, etc.) |
-| **161 - 180**                 | high definition (hd) showcases & generic networks             |
-| **181 - 199**                 | vacant / overflow channels                                    |
-| **200+ (bottom of playlist)** | adult, nsfw, and porn channels (strictly legal content only)  |
+> 
+> | ch. no                         | use                                                           |
+> | ------------------------------ | ------------------------------------------------------------- |
+> | **001 - 020**                  | local & community channels (including university tv)          |
+> | **021 - 040**                 | news & information                                            |
+> | **041 - 060**                 | music & radio streams                                         |
+> | **061 - 080**                 | kids & family                                                 |
+> | **081 - 100**                 | edutainment & documentaries                                   |
+> | **101 - 120**                 | sports (legal broadcasts only)                                |
+> | **121 - 140**                 | movies & entertainment                                        |
+> | **141 - 160**                 | regional & international languages (e.g., hindi, tamil, etc.) |
+> | **161 - 180**                 | high definition (hd) showcases & generic networks             |
+> | **181 - 199**                 | vacant / overflow channels                                    |
+> | **200+ (bottom of playlist)** | adult, nsfw, and porn channels (strictly legal content only)  |
 
 #### 📩 submission requirements
 
