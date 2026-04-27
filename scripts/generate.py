@@ -133,9 +133,7 @@ def generate_playlists():
     
     # output paths 
     master_m3u_path = os.path.join(script_dir, "..", "ch.m3u")
-    jellyfin_m3u_path = os.path.join(script_dir, "..", "chjf.m3u")
     master_epg_path = os.path.join(script_dir, "..", "epg.xml")
-    jellyfin_epg_path = os.path.join(script_dir, "..", "epgjf.xml")
     radio_dir = os.path.join(script_dir, "..", "radio")
 
     # load the data
@@ -152,7 +150,6 @@ def generate_playlists():
 
     # 1. setup xml trees
     master_xml = ET.Element("tv", {"generator-info-name": "fonseware network", "source-info-name": "fonseware-cable"})
-    jellyfin_xml = ET.Element("tv", {"generator-info-name": "fonseware jellyfin", "source-info-name": "fonseware-cable"})
 
     # 2. build the channel headers
     for ch in tv_channels + fm_channels:
@@ -163,15 +160,6 @@ def generate_playlists():
             ET.SubElement(ch_elem, "icon", src=ch["tvg_logo"])
 
         master_xml.append(ch_elem)
-        
-        # mirror tv channels to jellyfin
-        if ch in tv_channels:
-            ch_elem_jf = ET.Element("channel", id=ch["tvg_id"])
-            display_name_jf = ET.SubElement(ch_elem_jf, "display-name")
-            display_name_jf.text = ch["display_name"]
-            if ch.get("tvg_logo"):
-                ET.SubElement(ch_elem_jf, "icon", src=ch["tvg_logo"])
-            jellyfin_xml.append(ch_elem_jf)
 
     # 3. fetch or generate programmes
     for ch in tv_channels + fm_channels:
@@ -188,32 +176,18 @@ def generate_playlists():
 
         for prog in programmes:
             master_xml.append(prog)
-            # strictly only append to jellyfin if it's a tv channel
-            if ch in tv_channels:
-                jf_prog = ET.fromstring(ET.tostring(prog))
-                jellyfin_xml.append(jf_prog)
 
     # 4. write the xml files
     tree_master = ET.ElementTree(master_xml)
     ET.indent(tree_master, space="  ", level=0) 
     tree_master.write(master_epg_path, encoding="utf-8", xml_declaration=True)
 
-    tree_jellyfin = ET.ElementTree(jellyfin_xml)
-    ET.indent(tree_jellyfin, space="  ", level=0)
-    tree_jellyfin.write(jellyfin_epg_path, encoding="utf-8", xml_declaration=True)
-
     # 5. generate the m3u playlists
     master_epg_link = "http://cable.fnswe.me/epg.xml"
-    jellyfin_epg_link = "http://cable.fnswe.me/epgjf.xml"
 
     with open(os.path.normpath(master_m3u_path), 'w', encoding='utf-8') as f:
         f.write(f'#EXTM3U x-tvg-url="{master_epg_link}"\n')
         for ch in tv_channels + fm_channels:
-            f.write(f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group_title"]}" tvg-chno="{ch["tvg_chno"]}" tvg-country="{ch["tvg_country"]}" tvg-language="{ch["tvg_language"]}" tvg-name="{ch["tvg_name"]}" radio="{ch["radio"]}",{ch["display_name"]}\n{ch["url"]}\n\n')
-
-    with open(os.path.normpath(jellyfin_m3u_path), 'w', encoding='utf-8') as f:
-        f.write(f'#EXTM3U x-tvg-url="{jellyfin_epg_link}"\n')
-        for ch in tv_channels:
             f.write(f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group_title"]}" tvg-chno="{ch["tvg_chno"]}" tvg-country="{ch["tvg_country"]}" tvg-language="{ch["tvg_language"]}" tvg-name="{ch["tvg_name"]}" radio="{ch["radio"]}",{ch["display_name"]}\n{ch["url"]}\n\n')
 
     # 6. radio files
