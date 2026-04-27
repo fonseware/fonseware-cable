@@ -1,3 +1,7 @@
+---
+layout: default
+title: contributing guide
+---
 #### contribute to fonseware-cable
 
 **we accept submissions from original broadcasters only.** if you have a stream that meets the requirements below, we welcome you to submit it and share it with the world.
