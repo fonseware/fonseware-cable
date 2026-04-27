@@ -61,7 +61,7 @@
 > ```json
 > {
 >   "tvg_id": "002",
->   "tvg_logo": "http://cable.fnswe.me/media/> fw-teve-logo2-light.png",
+>   "tvg_logo": "http://cable.fnswe.me/media/fw-teve-logo2-light.png",
 >   "group_title": "General",
 >   "tvg_chno": "02",
 >   "tvg_country": "LK",
@@ -70,7 +70,7 @@
 >   "radio": "false",
 >   "display_name": "FBS teve",
 >   "url": "https://host.fonseware.com/hls/stream.m3u8",
->   "epg_url": "https://host.fonseware.com/epg/> fbs_schedule.xml"
+>   "epg_url": "https://host.fonseware.com/epg/fbs_schedule.xml"
 > }
 > ```
 
