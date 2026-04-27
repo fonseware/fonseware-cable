@@ -1,5 +1,5 @@
 name: daily epg and playlist generation
-
+# ai gen actions script. This workflow will run a python script that generates an epg and playlist file, then commits and pushes the changes back to the repository. You can customize the schedule and the script as needed.
 on:
   schedule:
     # runs at 00:00 utc every day
@@ -43,7 +43,7 @@ jobs:
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_message: |
-            chore: automated epg and playlist update [skip ci]
+            bot: automated epg and playlist update [skip ci]
             
             
             Co-authored-by: shannon <fonsekashannonshiwantha@gmail.com>
