@@ -26,16 +26,16 @@
     "epg_url": "https://host.fonseware.com/epg/fbs_schedule.xml"
   },
   {
-    "tvg_id": "003",
-    "tvg_logo": "http://cable.fnswe.me/media/fw-cable-nochannel.png",
-    "group_title": "Ungrouped",
+    "tvg_id": "121",
+    "tvg_logo": "https://swimrewind.com/logo",
+    "group_title": "movies & entertainment",
     "tvg_chno": "03",
-    "tvg_country": "N/A",
-    "tvg_language": "N/A",
-    "tvg_name": "No TV channel",
+    "tvg_country": "united states of america",
+    "tvg_language": "english",
+    "tvg_name": "Swim Rewind",
     "radio": "false",
-    "display_name": "No TV channel",
-    "url": "https://cable.fnswe.me/media/vacant.mp4",
+    "display_name": "Swim Rewind",
+    "url": "https://swimrewind.com/hls/0/stream.m3u8",
     "epg_url": ""
   }
 ]
