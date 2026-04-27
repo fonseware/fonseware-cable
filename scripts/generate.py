@@ -190,27 +190,6 @@ def generate_playlists():
         for ch in tv_channels + fm_channels:
             f.write(f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-logo="{ch["tvg_logo"]}" group-title="{ch["group_title"]}" tvg-chno="{ch["tvg_chno"]}" tvg-country="{ch["tvg_country"]}" tvg-language="{ch["tvg_language"]}" tvg-name="{ch["tvg_name"]}" radio="{ch["radio"]}",{ch["display_name"]}\n{ch["url"]}\n\n')
 
-    # 6. radio files
-    if not os.path.exists(os.path.normpath(radio_dir)):
-        os.makedirs(os.path.normpath(radio_dir))
-
-    for ch in fm_channels:
-        safe_name = "".join([c for c in ch["display_name"] if c.isalnum() or c.isspace()]).rstrip()
-        strm_path = os.path.join(radio_dir, f"{safe_name}.strm")
-        nfo_path = os.path.join(radio_dir, f"{safe_name}.nfo")
-
-        with open(os.path.normpath(strm_path), 'w', encoding='utf-8') as f:
-            f.write(ch["url"])
-
-        with open(os.path.normpath(nfo_path), 'w', encoding='utf-8') as f:
-            f.write(f'''<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<track>
-  <title>{ch["display_name"]}</title>
-  <tracknumber>{ch["tvg_chno"]}</tracknumber>
-  <thumb>{ch["tvg_logo"]}</thumb>
-  <genre>{ch["group_title"]}</genre>
-</track>''')
-
     print("generation complete. epg files fetched, placeholders drafted, and playlists compiled successfully.")
 
 if __name__ == "__main__":
