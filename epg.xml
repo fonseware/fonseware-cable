@@ -29,10 +29,10 @@
     <desc lang="en">Cable TV has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709000000 +0000" stop="20260709003000 +0000" channel="002">
+  <programme start="20260708000000 +0000" stop="20260708003000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -40,7 +40,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709003000 +0000" stop="20260709010000 +0000" channel="002">
+  <programme start="20260708003000 +0000" stop="20260708010000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -48,7 +48,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709010000 +0000" stop="20260709013000 +0000" channel="002">
+  <programme start="20260708010000 +0000" stop="20260708013000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -56,7 +56,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709013000 +0000" stop="20260709020000 +0000" channel="002">
+  <programme start="20260708013000 +0000" stop="20260708020000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -64,15 +64,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709020000 +0000" stop="20260709023000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709023000 +0000" stop="20260709030000 +0000" channel="002">
+  <programme start="20260708020000 +0000" stop="20260708023000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -80,7 +72,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709030000 +0000" stop="20260709033000 +0000" channel="002">
+  <programme start="20260708023000 +0000" stop="20260708030000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -88,7 +80,15 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709033000 +0000" stop="20260709040000 +0000" channel="002">
+  <programme start="20260708030000 +0000" stop="20260708033000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708033000 +0000" stop="20260708040000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -96,7 +96,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709040000 +0000" stop="20260709043000 +0000" channel="002">
+  <programme start="20260708040000 +0000" stop="20260708043000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -104,15 +104,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709043000 +0000" stop="20260709050000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="002">
+  <programme start="20260708043000 +0000" stop="20260708050000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -120,7 +112,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709053000 +0000" stop="20260709060000 +0000" channel="002">
+  <programme start="20260708050000 +0000" stop="20260708053000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -128,23 +120,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709060000 +0000" stop="20260709063000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709063000 +0000" stop="20260709070000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709070000 +0000" stop="20260709073000 +0000" channel="002">
+  <programme start="20260708053000 +0000" stop="20260708060000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -152,7 +128,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709073000 +0000" stop="20260709080000 +0000" channel="002">
+  <programme start="20260708060000 +0000" stop="20260708063000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -160,7 +136,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709080000 +0000" stop="20260709083000 +0000" channel="002">
+  <programme start="20260708063000 +0000" stop="20260708070000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -168,15 +144,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709083000 +0000" stop="20260709090000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709090000 +0000" stop="20260709093000 +0000" channel="002">
+  <programme start="20260708070000 +0000" stop="20260708073000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -184,7 +152,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709093000 +0000" stop="20260709100000 +0000" channel="002">
+  <programme start="20260708073000 +0000" stop="20260708080000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -192,7 +160,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709100000 +0000" stop="20260709103000 +0000" channel="002">
+  <programme start="20260708080000 +0000" stop="20260708083000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -200,7 +168,39 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709103000 +0000" stop="20260709110000 +0000" channel="002">
+  <programme start="20260708083000 +0000" stop="20260708090000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708090000 +0000" stop="20260708093000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708093000 +0000" stop="20260708100000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708100000 +0000" stop="20260708103000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708103000 +0000" stop="20260708110000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -208,7 +208,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709110000 +0000" stop="20260709113000 +0000" channel="002">
+  <programme start="20260708110000 +0000" stop="20260708113000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -216,7 +216,15 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709113000 +0000" stop="20260709120000 +0000" channel="002">
+  <programme start="20260708113000 +0000" stop="20260708120000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708120000 +0000" stop="20260708123000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -224,7 +232,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709120000 +0000" stop="20260709123000 +0000" channel="002">
+  <programme start="20260708123000 +0000" stop="20260708130000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -232,7 +240,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709123000 +0000" stop="20260709130000 +0000" channel="002">
+  <programme start="20260708130000 +0000" stop="20260708133000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -240,7 +248,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709130000 +0000" stop="20260709133000 +0000" channel="002">
+  <programme start="20260708133000 +0000" stop="20260708140000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -248,7 +256,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709133000 +0000" stop="20260709140000 +0000" channel="002">
+  <programme start="20260708140000 +0000" stop="20260708143000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -256,7 +264,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709140000 +0000" stop="20260709143000 +0000" channel="002">
+  <programme start="20260708143000 +0000" stop="20260708150000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -264,23 +272,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709143000 +0000" stop="20260709150000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709150000 +0000" stop="20260709153000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709153000 +0000" stop="20260709160000 +0000" channel="002">
+  <programme start="20260708150000 +0000" stop="20260708153000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -288,7 +280,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709160000 +0000" stop="20260709163000 +0000" channel="002">
+  <programme start="20260708153000 +0000" stop="20260708160000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -296,7 +288,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709163000 +0000" stop="20260709170000 +0000" channel="002">
+  <programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -304,7 +296,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709170000 +0000" stop="20260709173000 +0000" channel="002">
+  <programme start="20260708163000 +0000" stop="20260708170000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -320,15 +312,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709180000 +0000" stop="20260709183000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709183000 +0000" stop="20260709190000 +0000" channel="002">
+  <programme start="20260708173000 +0000" stop="20260708180000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -336,39 +320,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709190000 +0000" stop="20260709193000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709193000 +0000" stop="20260709200000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709200000 +0000" stop="20260709203000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709203000 +0000" stop="20260709210000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709210000 +0000" stop="20260709213000 +0000" channel="002">
+  <programme start="20260708180000 +0000" stop="20260708183000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -376,7 +328,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709213000 +0000" stop="20260709220000 +0000" channel="002">
+  <programme start="20260708183000 +0000" stop="20260708190000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -384,15 +336,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709220000 +0000" stop="20260709223000 +0000" channel="002">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709223000 +0000" stop="20260709230000 +0000" channel="002">
+  <programme start="20260708190000 +0000" stop="20260708193000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -400,12 +344,68 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709230000 +0000" stop="20260709233000 +0000" channel="002">
+  <programme start="20260708193000 +0000" stop="20260708200000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708200000 +0000" stop="20260708203000 +0000" channel="002">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
     <date>2026</date>
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708203000 +0000" stop="20260708210000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708210000 +0000" stop="20260708213000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708213000 +0000" stop="20260708220000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708220000 +0000" stop="20260708223000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708223000 +0000" stop="20260708230000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708230000 +0000" stop="20260708233000 +0000" channel="002">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS teve has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260709233000 +0000" stop="20260710000000 +0000" channel="002">
@@ -429,7 +429,7 @@
     <desc lang="en">Cable FM has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
     <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
   <programme start="20260709000000 +0000" stop="20260709003000 +0000" channel="102">
@@ -440,7 +440,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709003000 +0000" stop="20260709010000 +0000" channel="102">
+  <programme start="20260708003000 +0000" stop="20260708010000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -448,55 +448,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709010000 +0000" stop="20260709013000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709013000 +0000" stop="20260709020000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709020000 +0000" stop="20260709023000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709023000 +0000" stop="20260709030000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709030000 +0000" stop="20260709033000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709033000 +0000" stop="20260709040000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709040000 +0000" stop="20260709043000 +0000" channel="102">
+  <programme start="20260708010000 +0000" stop="20260708013000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -504,7 +456,15 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709043000 +0000" stop="20260709050000 +0000" channel="102">
+  <programme start="20260708013000 +0000" stop="20260708020000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708020000 +0000" stop="20260708023000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -512,7 +472,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709050000 +0000" stop="20260709053000 +0000" channel="102">
+  <programme start="20260708023000 +0000" stop="20260708030000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -520,7 +480,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709053000 +0000" stop="20260709060000 +0000" channel="102">
+  <programme start="20260708030000 +0000" stop="20260708033000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -528,7 +488,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709060000 +0000" stop="20260709063000 +0000" channel="102">
+  <programme start="20260708033000 +0000" stop="20260708040000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -536,7 +496,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709063000 +0000" stop="20260709070000 +0000" channel="102">
+  <programme start="20260708040000 +0000" stop="20260708043000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -544,7 +504,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709070000 +0000" stop="20260709073000 +0000" channel="102">
+  <programme start="20260708043000 +0000" stop="20260708050000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -552,7 +512,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709073000 +0000" stop="20260709080000 +0000" channel="102">
+  <programme start="20260708050000 +0000" stop="20260708053000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -560,7 +520,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709080000 +0000" stop="20260709083000 +0000" channel="102">
+  <programme start="20260708053000 +0000" stop="20260708060000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -568,7 +528,23 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709083000 +0000" stop="20260709090000 +0000" channel="102">
+  <programme start="20260708060000 +0000" stop="20260708063000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708063000 +0000" stop="20260708070000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708070000 +0000" stop="20260708073000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -576,7 +552,23 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709090000 +0000" stop="20260709093000 +0000" channel="102">
+  <programme start="20260708073000 +0000" stop="20260708080000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708080000 +0000" stop="20260708083000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708083000 +0000" stop="20260708090000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -584,47 +576,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709093000 +0000" stop="20260709100000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709100000 +0000" stop="20260709103000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709103000 +0000" stop="20260709110000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709110000 +0000" stop="20260709113000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709113000 +0000" stop="20260709120000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709120000 +0000" stop="20260709123000 +0000" channel="102">
+  <programme start="20260708090000 +0000" stop="20260708093000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -632,7 +584,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709123000 +0000" stop="20260709130000 +0000" channel="102">
+  <programme start="20260708093000 +0000" stop="20260708100000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -640,15 +592,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709130000 +0000" stop="20260709133000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709133000 +0000" stop="20260709140000 +0000" channel="102">
+  <programme start="20260708100000 +0000" stop="20260708103000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -656,7 +600,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709140000 +0000" stop="20260709143000 +0000" channel="102">
+  <programme start="20260708103000 +0000" stop="20260708110000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -664,15 +608,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709143000 +0000" stop="20260709150000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709150000 +0000" stop="20260709153000 +0000" channel="102">
+  <programme start="20260708110000 +0000" stop="20260708113000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -680,7 +616,15 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709153000 +0000" stop="20260709160000 +0000" channel="102">
+  <programme start="20260708113000 +0000" stop="20260708120000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708120000 +0000" stop="20260708123000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -688,39 +632,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709160000 +0000" stop="20260709163000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709163000 +0000" stop="20260709170000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709170000 +0000" stop="20260709173000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709173000 +0000" stop="20260709180000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709180000 +0000" stop="20260709183000 +0000" channel="102">
+  <programme start="20260708123000 +0000" stop="20260708130000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -728,15 +640,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709183000 +0000" stop="20260709190000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709190000 +0000" stop="20260709193000 +0000" channel="102">
+  <programme start="20260708130000 +0000" stop="20260708133000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -744,15 +648,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709193000 +0000" stop="20260709200000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709200000 +0000" stop="20260709203000 +0000" channel="102">
+  <programme start="20260708133000 +0000" stop="20260708140000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -760,15 +656,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709203000 +0000" stop="20260709210000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709210000 +0000" stop="20260709213000 +0000" channel="102">
+  <programme start="20260708140000 +0000" stop="20260708143000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -776,15 +664,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709213000 +0000" stop="20260709220000 +0000" channel="102">
-    <title lang="en">No programme set</title>
-    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
-    <category lang="en">General</category>
-    <date>2026</date>
-    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-  </programme>
-  <programme start="20260709220000 +0000" stop="20260709223000 +0000" channel="102">
+  <programme start="20260708143000 +0000" stop="20260708150000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -792,7 +672,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709223000 +0000" stop="20260709230000 +0000" channel="102">
+  <programme start="20260708150000 +0000" stop="20260708153000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -800,7 +680,7 @@
     <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709230000 +0000" stop="20260709233000 +0000" channel="102">
+  <programme start="20260708153000 +0000" stop="20260708160000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -808,7 +688,71 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709233000 +0000" stop="20260710000000 +0000" channel="102">
+  <programme start="20260708160000 +0000" stop="20260708163000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708163000 +0000" stop="20260708170000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708170000 +0000" stop="20260708173000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708173000 +0000" stop="20260708180000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708180000 +0000" stop="20260708183000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708183000 +0000" stop="20260708190000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708190000 +0000" stop="20260708193000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708193000 +0000" stop="20260708200000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708200000 +0000" stop="20260708203000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
@@ -816,12 +760,68 @@
     <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
-  <programme start="20260709000000 +0000" stop="20260710000000 +0000" channel="103">
+  <programme start="20260708203000 +0000" stop="20260708210000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708210000 +0000" stop="20260708213000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708213000 +0000" stop="20260708220000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708220000 +0000" stop="20260708223000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708223000 +0000" stop="20260708230000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder2.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708230000 +0000" stop="20260708233000 +0000" channel="102">
+    <title lang="en">No programme set</title>
+    <desc lang="en">FBS effem has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708233000 +0000" stop="20260709000000 +0000" channel="102">
     <title lang="en">No programme set</title>
     <desc lang="en">No FM channel has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
     <category lang="en">General</category>
     <date>2026</date>
     <icon src="http://cable.fnswe.me/media/placeholder1.jpg" />
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+  </programme>
+  <programme start="20260708000000 +0000" stop="20260709000000 +0000" channel="103">
+    <title lang="en">No programme set</title>
+    <desc lang="en">No FM channel has not set a programme block yet. Right now you are seeing a placeholder block. Please wait while we or the broadcaster settle this.</desc>
+    <category lang="en">General</category>
+    <date>2026</date>
+    <icon src="http://cable.fnswe.me/media/placeholder3.jpg" />
     <episode-num system="xmltv_ns">0.0.0/1</episode-num>
   </programme>
 </tv>
