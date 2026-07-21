@@ -22,7 +22,7 @@
     "tvg_name": "FBS teve",
     "radio": "false",
     "display_name": "FBS teve",
-    "url": "https://cdn.fonseware.com/fbsteve/hls/0/stream.m3u8",
+    "url": "https://live.fonseware.com/stream.m3u8",
     "epg_url": "https://live.fonseware.com/epg.xml"
   },
   {
